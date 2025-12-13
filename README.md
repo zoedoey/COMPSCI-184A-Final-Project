@@ -11,9 +11,10 @@ src/src.ipynb: Includes all of the modules we used/imported
 project.ipynb: A smaller version of our project meant to run in less than a minute, doesn't include all the graphs that the html file has 
 
 Steps to Run project.ipynb:
-  1. Download project.zip and unzip 
-  2. Move data.zip and project.keras into your Google Drive (no subfolders)
-  3. Open project.ipynb in Google Colab
-  4. Run all cells (Colab may ask to connect too Google Drive)
+  1. Download project.zip and unzip the file
+  2. Unzip project.keras.zip
+  3. Move data.zip and project.keras into your Google Drive (no subfolders)
+  4. Open project.ipynb in Google Colab
+  5. Run all cells (Colab may ask to connect too Google Drive)
 
 * All visuals for the project are located in project.html
