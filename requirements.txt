@@ -1,0 +1,5 @@
+MatPlotLib
+Numpy
+TensorFlow/Keras
+sci-kit learn
+OpenCV
