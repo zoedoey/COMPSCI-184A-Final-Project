@@ -15,6 +15,6 @@ Steps to Run project.ipynb:
   2. Unzip project.keras.zip
   3. Move data.zip and project.keras into your Google Drive (no subfolders)
   4. Open project.ipynb in Google Colab
-  5. Run all cells (Colab may ask to connect too Google Drive)
+  5. Run all cells (Colab may ask to connect to Google Drive)
 
 * All visuals for the project are located in project.html
